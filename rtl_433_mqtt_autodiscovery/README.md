@@ -71,7 +71,7 @@ For more information, see [the original script](https://github.com/merbanan/rtl_
 
 ## Prerequisites
 
-This add-on doesn't do anything useful unless you already have rtl_433 running and publishing "events" and "device" data to MQTT. If you would like to set that up on the same machine that's running the Home Assistant OS, the simplest way might be to use the [rtl_433 Home Assistant Add-on](https://github.com/pbkhrv/rtl_433-hass-addons/tree/main/rtl_433).
+This add-on doesn't do anything useful unless you already have rtl_433 running and publishing "events" and "device" data to MQTT. If you would like to set that up on the same machine that's running the Home Assistant OS, the simplest way might be to use the [rtl_433 Home Assistant Add-on](https://github.com/realsimonsthings/simons-rtl_433-hass-addons/tree/main/rtl_433).
 
 ## Home Assistant Add-on
 
@@ -83,7 +83,7 @@ To install this Home Assistant add-on you need to add the rtl_433 add-on reposit
 
  2. Click the menu button in the top right corner and select "Repositories"
 
- 3. Enter https://github.com/pbkhrv/rtl_433-hass-addons in the "Add repository" field.
+ 3. Enter https://github.com/realsimonsthings/simons-rtl_433-hass-addons in the "Add repository" field.
 
  4. Scroll down, select the "rtl_433 MQTT Auto Discovery" add-on and install it.
 
