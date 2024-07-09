@@ -1,5 +1,5 @@
 {
-  "name": "rtl_433",
+  "name": "Simon's rtl_433",
   "image": "ghcr.io/pbkhrv/rtl_433-hass-addons-rtl_433-{arch}",
   "version": "0.5.2",
   "slug": "rtl433",
