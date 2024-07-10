@@ -34,7 +34,7 @@ else
   DISCOVERY_PREFIX=$(bashio::config "discovery_prefix")
   DISCOVERY_INTERVAL=$(bashio::config "discovery_interval")
 
-  OTHER_ARGS=""
+  OTHER_ARGS=$(bashio::config "other_args")
   if bashio::config.true "mqtt_retain"; then
     OTHER_ARGS="${OTHER_ARGS} --retain"
   fi

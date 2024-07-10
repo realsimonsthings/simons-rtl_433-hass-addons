@@ -20,7 +20,8 @@
     "discovery_prefix": "homeassistant",
     "discovery_interval": 600,
     "force_update": false,
-    "log_level": "default"
+    "log_level": "default",
+    "other_args": ""
   },
   "schema": {
     "mqtt_host": "str?",
@@ -33,7 +34,8 @@
     "discovery_prefix": "str",
     "discovery_interval": "int",
     "force_update": "bool",
-    "log_level": "list(default|quiet|debug)"
+    "log_level": "list(default|quiet|debug)",
+    "other_args": "str?"
   },
   "services": ["mqtt:want"]
 }
