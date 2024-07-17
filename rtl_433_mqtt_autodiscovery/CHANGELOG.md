@@ -1,3 +1,7 @@
+## [1.0.0] - 2024-07-17
+
+* First version from Simon. No functional changes. Just added addition flags from auto-discovery script to addon config.
+
 ## [0.8.2] - 2024-06-23
 
 * Upgrade base images to support RTL-SDR V4 #181
