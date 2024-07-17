@@ -1,6 +1,6 @@
 {
   "name": "Simons rtl_433 MQTT Auto Discovery",
-  "image": "ghcr.io/pbkhrv/rtl_433-hass-addons-rtl_433_mqtt_autodiscovery-{arch}:0.8.2",
+  "image": "ghcr.io/pbkhrv/rtl_433-hass-addons-rtl_433_mqtt_autodiscovery-{arch}",
   "version": "1.0.0",
   "slug": "rtl433mqttautodiscovery",
   "description": "Automatic discovery of rtl_433 device information via MQTT",
